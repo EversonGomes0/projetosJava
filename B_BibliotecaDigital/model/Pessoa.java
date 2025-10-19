@@ -6,7 +6,7 @@ public abstract class Pessoa {
 
     public Pessoa(String nome, int id) {
         this.nome = nome;
-        this.id = id;
+        this.id =  id;
     }
 
     public String getNome() {
